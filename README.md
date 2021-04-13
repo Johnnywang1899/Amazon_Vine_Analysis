@@ -1,0 +1,2 @@
+# Amazon_Vine_Analysis
+Apache Hadoop (Hadoop) – open source frameworks (Google develop), mrjob library (python), Apache Spart (Spark), Pyspark (a big data processing tool), Google Colaboratory (Colab), Data Tokenization, PySpark Machine Learning (ML) library, AWS SQL database, AWS S3 data storage, Database CRUD (create, read, update, delete), AWS SQL ETL flow, Naïve Bayes Model (ML) using pyspark to predict a testing dataframe after training from a training dataframe.
