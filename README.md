@@ -6,5 +6,8 @@ A large volume dataset (include all the customer reviews of online video game pu
 
 ## Results
 - In total, there are 94 Vine reviews and 40471 non-Vine reviews.  
-!
-- There are 
+![total_review.PNG](image/total_review.PNG)  
+- There are 48 Vine reviews that have five stars and 15663 non-Vine reviews that have five starts.  
+![five_star_review.PNG](image/five_star_review.PNG)  
+- The percentage of five_star Vine reviews is 51.0638% and the percentage of five_star non_Vine reviews is 38.7018%.  
+![percentage.PNG](image/percentage.PNG)
